@@ -1,0 +1,35 @@
+"filename", "language", "C#", "comment", "blank", "total"
+"d:\UnityProjects\Agent Arena\Assets\Scripts\AbilityUI.cs", "C#", 63, 2, 18, 83
+"d:\UnityProjects\Agent Arena\Assets\Scripts\AddToCameraStack.cs", "C#", 14, 2, 5, 21
+"d:\UnityProjects\Agent Arena\Assets\Scripts\BurstRifle.cs", "C#", 12, 2, 5, 19
+"d:\UnityProjects\Agent Arena\Assets\Scripts\ConstantRotation.cs", "C#", 14, 2, 5, 21
+"d:\UnityProjects\Agent Arena\Assets\Scripts\Controls.cs", "C#", 613, 5, 14, 632
+"d:\UnityProjects\Agent Arena\Assets\Scripts\GrenadeScript.cs", "C#", 62, 2, 23, 87
+"d:\UnityProjects\Agent Arena\Assets\Scripts\HandTargets.cs", "C#", 31, 2, 5, 38
+"d:\UnityProjects\Agent Arena\Assets\Scripts\Health.cs", "C#", 73, 2, 30, 105
+"d:\UnityProjects\Agent Arena\Assets\Scripts\HealthBarFill.cs", "C#", 75, 2, 15, 92
+"d:\UnityProjects\Agent Arena\Assets\Scripts\HeavyRifle.cs", "C#", 12, 2, 6, 20
+"d:\UnityProjects\Agent Arena\Assets\Scripts\InputManager.cs", "C#", 46, 0, 13, 59
+"d:\UnityProjects\Agent Arena\Assets\Scripts\LobbyMenu.cs", "C#", 29, 0, 13, 42
+"d:\UnityProjects\Agent Arena\Assets\Scripts\MainMenu.cs", "C#", 21, 2, 10, 33
+"d:\UnityProjects\Agent Arena\Assets\Scripts\NetworkBulletCollision.cs", "C#", 40, 23, 24, 87
+"d:\UnityProjects\Agent Arena\Assets\Scripts\NetworkGamePlayerLobby.cs", "C#", 41, 0, 18, 59
+"d:\UnityProjects\Agent Arena\Assets\Scripts\NetworkManagerLobby.cs", "C#", 144, 1, 53, 198
+"d:\UnityProjects\Agent Arena\Assets\Scripts\NetworkPlayerCameraController.cs", "C#", 159, 33, 88, 280
+"d:\UnityProjects\Agent Arena\Assets\Scripts\NetworkPlayerMovementController.cs", "C#", 143, 35, 48, 226
+"d:\UnityProjects\Agent Arena\Assets\Scripts\NetworkRoomPlayerLobby.cs", "C#", 206, 1, 80, 287
+"d:\UnityProjects\Agent Arena\Assets\Scripts\NetworkWeaponSystem.cs", "C#", 285, 32, 105, 422
+"d:\UnityProjects\Agent Arena\Assets\Scripts\Player.cs", "C#", 42, 3, 10, 55
+"d:\UnityProjects\Agent Arena\Assets\Scripts\PlayerNameInput.cs", "C#", 34, 1, 19, 54
+"d:\UnityProjects\Agent Arena\Assets\Scripts\PlayerSpawnPoint.cs", "C#", 21, 0, 5, 26
+"d:\UnityProjects\Agent Arena\Assets\Scripts\PlayerSpawnSystem.cs", "C#", 84, 0, 52, 136
+"d:\UnityProjects\Agent Arena\Assets\Scripts\Revolver.cs", "C#", 12, 2, 5, 19
+"d:\UnityProjects\Agent Arena\Assets\Scripts\SMG.cs", "C#", 12, 2, 5, 19
+"d:\UnityProjects\Agent Arena\Assets\Scripts\SimpleCameraController.cs", "C#", 241, 9, 44, 294
+"d:\UnityProjects\Agent Arena\Assets\Scripts\SniperRifle.cs", "C#", 12, 2, 6, 20
+"d:\UnityProjects\Agent Arena\Assets\Scripts\StartInvisible.cs", "C#", 22, 2, 8, 32
+"d:\UnityProjects\Agent Arena\Assets\Scripts\SteamLobby.cs", "C#", 67, 8, 31, 106
+"d:\UnityProjects\Agent Arena\Assets\Scripts\SteamTest.cs", "C#", 16, 2, 6, 24
+"d:\UnityProjects\Agent Arena\Assets\Scripts\TacticalPistol.cs", "C#", 12, 2, 6, 20
+"d:\UnityProjects\Agent Arena\Assets\Scripts\Weapon.cs", "C#", 42, 2, 11, 55
+"Total", "-", 2700, 185, 786, 3671
